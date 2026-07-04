@@ -1,0 +1,16 @@
+{
+  "name": "baccarat-api",
+  "version": "1.0.0",
+  "description": "Baccarat Prediction API",
+  "main": "bcr.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bcr.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
